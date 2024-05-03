@@ -4,7 +4,7 @@
     <div class="flex justify-between items-center my-4">
     <a href="/" class="transition ease-in-out hover:scale-110 duration-300">
       <h1 class="logo text-red-500 text-5xl">kenuki</h1>
-      <h2 class="sublogo text-xs font-bold text-red-500 text-center">owner TheJustRusik</h2>
+      <h2 class="sublogo text-xs font-bold text-red-500 text-center">is TheJustRusik</h2>
     </a>
 
     <v-btn-toggle
